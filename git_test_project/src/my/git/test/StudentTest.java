@@ -4,6 +4,10 @@ public class StudentTest {
 	public static void main(String[] args) {
 		Student st = new Student("하하", 40);
 		System.out.println(st+"!!!!");
+	
+		Student st1 = new Student("하하", 40);
+	System.out.println(st+"!!!!");
+
 	}
 }
 //이클립스 워크스페이스에 있는 소스를 -> git의 워크트리폴더로 옮긴 것
